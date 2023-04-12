@@ -4,7 +4,12 @@
 <br/>
 <br/>
 <br/>
-
+  
+<h3 align="center">📫 Email : gudtjr2949@naver.com📫</h3>
+  
+<br/>
+<br/>
+  
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <p align="center">

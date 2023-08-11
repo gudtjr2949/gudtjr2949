@@ -28,7 +28,7 @@
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/jenkins/build?style=flat-square&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/jenkins/build">
 
   <br>
   <br>

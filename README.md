@@ -6,7 +6,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gudtjr2949)](https://solved.ac/gudtjr2949/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudtjr2949&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudtjr2949&layout=donut-vertical)](https://github.com/gudtjr2949)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudtjr2949&layout=donut-vertical)](https://github.com/gudtjr2949/gudtjr2949)
 <br/>
   
 <h3 align="center">📫 Email : gudtjr2949@naver.com📫</h3>

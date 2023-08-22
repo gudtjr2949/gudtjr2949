@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&Hello&text=HyungSeok's%20Github!&fontSize=50&color=#00a000)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&Hello&text=HyeongSeok's%20Github!&fontSize=50&color=#00a000)
 <div align="center">
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 <br/>
 <br/>
 

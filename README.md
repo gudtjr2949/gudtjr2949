@@ -12,6 +12,7 @@
 <h3 align="center">📫 Email : gudtjr2949@naver.com📫</h3>
   
 <br/>
+<h3 align="center">🏠 Blog : [형석이의 성장일기](https://velog.io/@gudtjr2949)🏠</h3>
 <br/>
   
 <h3 align="center">📚 Tech Stack 📚</h3>

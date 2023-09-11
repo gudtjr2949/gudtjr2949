@@ -13,7 +13,7 @@
   
 <br/>
 <br/>
-<a href="https://velog.io/@gudtjr2949">🏠 Blog : <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gudtjr2949"/>🏠</a>
+<h3 align="center">🏠 Blog : <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gudtjr2949"/> 🏠</h3>
 <br/>
 <br/>
   

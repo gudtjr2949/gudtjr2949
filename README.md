@@ -6,7 +6,7 @@
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gudtjr2949)](https://solved.ac/gudtjr2949/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudtjr2949&show_icons=true&theme=transparent)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=gudtjr2949&theme=warm)
 <br/>
   
 <h3 align="center">📫 Email : gudtjr2949@naver.com📫</h3>

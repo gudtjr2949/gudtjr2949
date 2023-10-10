@@ -76,7 +76,8 @@
 ![007](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/0f3c3f50-ec9e-4c8e-a61d-2a9b2a09cd21)
 ![008](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/666890e2-d038-404d-9e05-fcfe0d6e9b32)
 ![009](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/e412ef4d-8974-47c5-92f5-effb63cff193)
-![010](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/fec2efbd-c334-44e3-89d7-bb3fdc4ce430)
+![010](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/fec2efbd-c334-44e3-89[이형석_포트폴리오.pdf](https://github.com/gudtjr2949/gudtjr2949/files/12857870/_.pdf)
+d7-bb3fdc4ce430)
 
 
 </div>

@@ -41,10 +41,11 @@
   <br>
   <br>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>&nbsp
   <br>
   <br>
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp

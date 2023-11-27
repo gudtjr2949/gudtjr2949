@@ -66,19 +66,4 @@
 <h3 align="center"><a href="https://github.com/gudtjr2949/Meditation_Diary">심신수양록</a></h3>
 <h3 align="center"><a href="https://github.com/gudtjr2949/zip">zip (가족 캘린더)</a></h3>
 <br/>
-
----
-
-![001](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/f091e828-9aaf-49f1-8923-acbbbcf5664f)
-![002](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/a9fe3070-0ac4-4cc3-9897-478ab7286230)
-![003](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/5aff7864-b2e5-40b2-aea4-3b2557327e80)
-![004](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/a5b81b39-06bd-4ce3-b832-14a75f7fe87b)
-![005](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/2eaf9f42-fe51-45ba-95c2-df372d09ea9a)
-![006](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/87149d04-e504-4fe8-88fb-3180a221445d)
-![007](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/7110aee9-f1d5-4b64-ba4b-a4561f599037)
-![008](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/0f3c3f50-ec9e-4c8e-a61d-2a9b2a09cd21)
-![009](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/666890e2-d038-404d-9e05-fcfe0d6e9b32)
-![010](https://github.com/gudtjr2949/gudtjr2949/assets/83962223/e412ef4d-8974-47c5-92f5-effb63cff193)
-
-
 </div>

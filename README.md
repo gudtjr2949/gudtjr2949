@@ -7,46 +7,18 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=gudtjr2949&theme=warm)
 <br/>  
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudtjr2949&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
   
 <h3 align="center">📚 Tech Stack 📚</h3>
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python)](https://skillicons.dev)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white">&nbsp
-
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>&nbsp
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">&nbsp
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,py,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,django,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
 
 <br/>
 

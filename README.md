@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&Hello&text=HyeongSeok's%20Github!&fontSize=50&color=#00a000)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&Hello&text=Brostone&fontSize=50&color=#00a000)
 <div align="center">
 <br/>
 <br/>
@@ -19,6 +19,7 @@
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python)](https://skillicons.dev)
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>

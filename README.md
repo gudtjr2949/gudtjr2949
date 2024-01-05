@@ -7,9 +7,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=gudtjr2949&theme=warm)
 <br/>  
 <br/>
-<br/>
-<a href="https://velog.io/@gudtjr2949"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gudtjr2949"/></a>
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudtjr2949&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
   
 <h3 align="center">📚 Tech Stack 📚</h3>

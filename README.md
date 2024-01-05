@@ -5,10 +5,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gudtjr2949)](https://solved.ac/gudtjr2949/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=gudtjr2949&theme=warm)
-<br/>
-  
-<h3 align="center">📫 Email : gudtjr2949@naver.com📫</h3>
-  
+<br/>  
 <br/>
 <br/>
 <a href="https://velog.io/@gudtjr2949"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gudtjr2949"/></a>
@@ -17,7 +14,9 @@
   
 <h3 align="center">📚 Tech Stack 📚</h3>
 <br/>
+
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python)](https://skillicons.dev)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 

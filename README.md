@@ -16,23 +16,6 @@
 <br/>
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,nginx)](https://skillicons.dev)
-<br/>
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=react,vue)](https://skillicons.dev)
-<br/>
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-<br/>
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,nginx)](https://skillicons.dev)
-<br/>
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-<br/>
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
-<br/>
-<br/>
 
 <br/>
 

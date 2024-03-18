@@ -12,9 +12,5 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,nginx)](https://skillicons.dev)
 
 <br/>
-
----
-
-<br/>
 <br/>
 </div>

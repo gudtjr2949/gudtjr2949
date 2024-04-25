@@ -2,7 +2,11 @@
 <div align="center">
 <br/>
 <br/>
-  
+
+<a href="https://drive.google.com/file/d/1QppfIuxW6VY-oV5VIZJOFF2g3EbMmDxx/view?usp=sharing" target="_blank">📰 Portfolio 📰</a>
+
+<br/>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <br/>
 

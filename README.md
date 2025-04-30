@@ -4,7 +4,7 @@
 <br/>
 
 <h3><a href="https://www.notion.so/1723bb10746f80bc8dcdf971c91bffb4?pvs=4" target="_blank">📰 Resume 📰</a></h3>
-<h3><a href="https://drive.google.com/file/d/1x-gBv4fGYL6bOTgIrGOxrJtPHnY51yd7/view?usp=sharing" target="_blank">📕 Portfolio 📕</a></h3>
+<h3><a href="https://drive.google.com/file/d/1SeOocc14iidg6Q4HMn_XkSziZPKjkEWl/view?usp=sharing" target="_blank">📕 Portfolio 📕</a></h3>
 
 <br/>
 
